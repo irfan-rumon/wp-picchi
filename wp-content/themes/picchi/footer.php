@@ -10,36 +10,7 @@
  */
 
 ?>
-
-	<foyi 8-+
-	
-	
-	
-	
-	
-	ff
-	
-	
-f
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	oter id="colophon" class="site-footer">
+	<footer id="colophon" class="site-footer">
 		<div class="container">
 			<div class="row">
 				<div class="col-xxl-12">
@@ -52,7 +23,7 @@ f
 			</div>
 		</div>
 		
-	</foyi><!-- #colophon -->
+		</footer><!-- #colophon -->
 </div><!-- #page -->
 
 <?php wp_footer(); ?>

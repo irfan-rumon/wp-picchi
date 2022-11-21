@@ -960,6 +960,12 @@ textarea {
 	margin-bottom: 1.5em;
 }
 
+
+.site-main{
+  margin: 0 20px;
+}
+
+
 .aligncenter {
 	clear: both;
 	display: block;
