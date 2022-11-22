@@ -973,3 +973,34 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+
+.welcome-area{
+	color: #142d37 !important;
+	background-image: url('https://images.unsplash.com/photo-1551135049-8a33b5883817?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80') !important;
+    background-repeat: no-repeat !important;
+	width: 100% !important;
+	height: 50rem !important;
+	margin-left: 10rem;
+
+}
+
+#welcome-heading{
+	text-align: center !important;
+	color: #800080;
+	margin-right: 20rem !important;
+	font-size: 1800 !important;
+	font-weight: bold !important;
+	margin-top: 2.5rem !important;
+}
+
+.btn{
+	background-color: tomato !important;
+	color: #fff;
+	border-radius: 7px;
+	padding-bottom: 10px !important;
+}
+
+.btn-sec-welcome{
+    margin-right: 20rem;
+}
