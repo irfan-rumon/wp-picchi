@@ -1,3 +1,5 @@
+
+
 /*!
 Theme Name: picchi
 Theme URI: http://underscores.me/
@@ -11,13 +13,10 @@ License: GNU General Public License v2 or later
 License URI: LICENSE
 Text Domain: picchi
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
-
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned.
-
 picchi is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
-
 Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
@@ -47,7 +46,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Utilities
 	- Accessibility
 	- Alignments
-
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
@@ -976,19 +974,22 @@ textarea {
 
 
 .welcome-area{
+	padding-top: 0.5rem;
 	color: #142d37 !important;
 	background-image: url('https://images.unsplash.com/photo-1551135049-8a33b5883817?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80') !important;
     background-repeat: no-repeat !important;
-	width: 100% !important;
+	
 	height: 50rem !important;
-	margin-left: 10rem;
+	margin-left: 18rem;
+	width: 98rem;
 
 }
 
 #welcome-heading{
-	text-align: center !important;
+	margin-left: 25rem;
 	color: #800080;
-	margin-right: 20rem !important;
+	margin-top: 5rem;
+	margin-right: 31rem !important;
 	font-size: 1800 !important;
 	font-weight: bold !important;
 	margin-top: 2.5rem !important;
@@ -1002,5 +1003,32 @@ textarea {
 }
 
 .btn-sec-welcome{
+	margin-left: 30rem;
     margin-right: 20rem;
+}
+
+.about-section{
+	text-align: center;
+	margin-left: 19rem;
+	margin-right: 12rem;
+	
+}
+
+.flx-row-2-part{
+	display: flex;
+	gap: 3rem;
+
+}
+
+
+.about-heading{
+   margin-right: 15rem;
+   margin-bottom: 3rem;
+   font-weight: bold;
+   
+   color: #800080;
+}
+
+.about-desc, .about-img{
+	width: 36rem;
 }

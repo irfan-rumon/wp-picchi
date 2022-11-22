@@ -15,11 +15,14 @@
 get_header();
 ?>
 
-	<main id="primary" class="site-main">
 
+	<div>
+	      <?php include('welcome.php'); ?>
+	      <?php include('about.php'); ?>
+	      <?php include('prices.php'); ?> 
+	</div>
 	
-	<?php include('welcome.php'); ?> 
-	</main>
+	
 
 	
 

@@ -11,25 +11,23 @@
 
 ?>
 
-<section class="welcome-area">
-		<div class="container w-100">
-			<div class="row w-100">
-				<div >
-					<div class="welcome-content text-center">
-						<h1 id="welcome-heading">Welcome to our agency</h1>
+<div class="welcome-area">
+		
+				
+					<div class="welcome-content">
+						<h1 id="welcome-heading">Welcome To Our Agency</h1>
+                    </div>
 						
 					<div class="btn-sec-welcome">
                         <button class="btn">learn more</button>
 						<button class="btn">contact us</button>
-                    </div>	
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	  </section>
+                   </div>	
+                    
+			
+</div>
+	
 
-</div><!-- #page -->
+
 
 
 </body>
