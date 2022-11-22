@@ -12,7 +12,7 @@
 ?>
 
 <div class="about-section">
-	  <h1 class="about-heading">Our Team Members</h1>	
+	  <h1 class="about-heading">Team Members</h1>	
 
       
 

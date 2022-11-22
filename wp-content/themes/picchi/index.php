@@ -20,7 +20,7 @@ get_header();
 	      <?php include('welcome.php'); ?>
 	      <?php include('about.php'); ?>
 	      <?php include('prices.php'); ?> 
-		  <?php include('team.php'); ?> 
+		  
 	</div>
 	
 	
